@@ -39,7 +39,7 @@ Other professional interest: Blockchain Technology and machine learning.
   - Laradock
   - Gitlab CI
 
-### Methodologies and Design Pattern:
+### Methodologies and architecture :
 - Scrum
 - MCV
 - Full POO

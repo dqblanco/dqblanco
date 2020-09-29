@@ -15,7 +15,7 @@ Other professional interest: Blockchain Technology and machine learning.
 - Organize your development team.
 - Design the architecture of your software.
 - Establish the processes and development cycles of your application.
-- Advise on UI / UX design
+- Advice on UI / UX design
 
 ### Languages and Tools:
 - Backend

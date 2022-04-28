@@ -21,8 +21,10 @@ Other professional interest: Blockchain Technology and machine learning.
 - Backend
   - Php
   - Symfony Framework
-  - Python (Junior)
-  - NodeJS (Junior)
+  - Python 
+  - NodeJS 
+  - Varnish 
+  - Elastic Search
 - Database  
   - Mysql
   - Postgres
@@ -37,7 +39,8 @@ Other professional interest: Blockchain Technology and machine learning.
 - Devops
   - Docker
   - Laradock
-  - Gitlab CI
+  - Gitlab CI  
+
 
 ### Methodologies and architecture :
 - Scrum
